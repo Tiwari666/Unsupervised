@@ -23,11 +23,16 @@ One-Class SVM (Support Vector Machine): Learns a boundary around normal data poi
 Local Outlier Factor (LOF): Determines the local density of data points and identifies outliers as points with substantially lower densities compared to their neighbors.
 Association Rule Learning:
 
+
 # Apriori Algorithm:
 It Discovers frequent itemsets in transactional datasets and derives association rules to capture relationships between items.
 FP-Growth Algorithm: Constructs a compact data structure called an FP-tree to efficiently mine frequent itemsets and generate association rules.
-Generative Adversarial Networks (GANs):
 
+Apriori algorithm is an unsupervised algorithm that helps in creating association rules from a given dataset.
+
+
+
+Generative Adversarial Networks (GANs):
 Generative Adversarial Networks (GANs): Consists of a generator and a discriminator neural network that compete against each other. The generator generates samples, while the discriminator tries to distinguish between real and generated samples. GANs are used for tasks like image generation, data synthesis, and data augmentation.
 
 
