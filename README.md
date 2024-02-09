@@ -5,7 +5,7 @@ Unsupervised learning is a type of machine learning where the algorithm learns p
 some common types of unsupervised learning algorithms, including appropriate examples:
 
 
-#Clustering Algorithms:
+# Clustering Algorithms:
 
 K-means Clustering: Divides the data into a predetermined number of clusters, where each data point belongs to the cluster with the nearest mean.
 Hierarchical Clustering: Builds a tree of clusters by merging or splitting clusters based on the distance between data points.
