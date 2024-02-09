@@ -32,7 +32,8 @@ Apriori algorithm is an unsupervised algorithm that helps in creating associatio
 
 
 
-Generative Adversarial Networks (GANs):
+# Generative Adversarial Networks (GANs):
+
 Generative Adversarial Networks (GANs): Consists of a generator and a discriminator neural network that compete against each other. The generator generates samples, while the discriminator tries to distinguish between real and generated samples. GANs are used for tasks like image generation, data synthesis, and data augmentation.
 
 
