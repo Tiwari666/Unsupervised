@@ -23,7 +23,8 @@ One-Class SVM (Support Vector Machine): Learns a boundary around normal data poi
 Local Outlier Factor (LOF): Determines the local density of data points and identifies outliers as points with substantially lower densities compared to their neighbors.
 Association Rule Learning:
 
-Apriori Algorithm: Discovers frequent itemsets in transactional datasets and derives association rules to capture relationships between items.
+# Apriori Algorithm:
+It Discovers frequent itemsets in transactional datasets and derives association rules to capture relationships between items.
 FP-Growth Algorithm: Constructs a compact data structure called an FP-tree to efficiently mine frequent itemsets and generate association rules.
 Generative Adversarial Networks (GANs):
 
