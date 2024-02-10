@@ -13,10 +13,13 @@ DBSCAN (Density-Based Spatial Clustering of Applications with Noise): Identifies
 Gaussian Mixture Models (GMM): Represents the distribution of data points as a mixture of several Gaussian distributions, allowing for more flexible cluster shapes.
 Dimensionality Reduction Algorithms:
 
-Principal Component Analysis (PCA): Linear dimensionality reduction technique that projects high-dimensional data onto a lower-dimensional space while preserving the maximum variance.
+#Principal Component Analysis (PCA):
+
+Linear dimensionality reduction technique that projects high-dimensional data onto a lower-dimensional space while preserving the maximum variance.
 t-Distributed Stochastic Neighbor Embedding (t-SNE): Non-linear dimensionality reduction technique that emphasizes preserving the local structure of the data in the lower-dimensional space.
 Autoencoders: Neural network-based approach for learning compact representations of high-dimensional data by training the network to reconstruct its input.
-Anomaly Detection Algorithms:
+
+#Anomaly Detection Algorithms:
 
 Isolation Forest: Identifies anomalies by isolating them in randomly generated partitions of the data space.
 One-Class SVM (Support Vector Machine): Learns a boundary around normal data points and identifies outliers as data points outside this boundary.
